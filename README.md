@@ -14,8 +14,8 @@ http://ec2-18-194-146-48.eu-central-1.compute.amazonaws.com:4435/calendarservice
 
 --> Parameter dateval = dd-mm-yyyy-t
 
-t = J --> year-view
-t = M --> month-view
+t = J --> year-view / 
+t = M --> month-view / 
 t = W --> weekday
 ________________________________
 
