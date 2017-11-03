@@ -22,3 +22,9 @@ ________________________________
 Demo by wsdlbrowser.com: 
 
 http://wsdlbrowser.com/soapclient?wsdl_url=http%3A%2F%2Fec2-18-194-146-48.eu-central-1.compute.amazonaws.com%3A4435%2Fcalendarservice%3Fwsdl&function_name=show
+
+________________________________
+
+See details of implementation (without webservice) here:
+
+https://github.com/src-mgra/MyCalendarService/blob/master/src/calendarservice/ShowCalImpl.java
