@@ -8,7 +8,7 @@ Param = 18-10-2017-J
 ________________________________
 WSDL of soap service:     
 
-http://ec2-18-194-146-48.eu-central-1.compute.amazonaws.com:4435/calendarservice?wsdl
+http://calwsdl.it-docs.de
 
 --> methode show
 
@@ -22,7 +22,7 @@ ________________________________
 
 Demo by wsdlbrowser.com: 
 
-http://wsdlbrowser.com/soapclient?wsdl_url=http%3A%2F%2Fec2-18-194-146-48.eu-central-1.compute.amazonaws.com%3A4435%2Fcalendarservice%3Fwsdl&function_name=show
+http://calservice.it-docs.de/
 
 ________________________________
 
