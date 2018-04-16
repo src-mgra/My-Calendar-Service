@@ -8,7 +8,6 @@ Param = 18-10-2017-J
 ________________________________
 WSDL of soap service:     
 
-http://calwsdl.it-docs.de
 
 --> methode show
 
@@ -22,7 +21,6 @@ ________________________________
 
 Demo by wsdlbrowser.com: 
 
-http://calservice.it-docs.de/
 
 ________________________________
 
