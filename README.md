@@ -5,8 +5,7 @@ Call URL with Param:
 http://localhost:4435/calendarservice Param  
 Param = 18-10-2017-J                                                
                                                 
-________________________________
-WSDL of soap service:     
+________________________________   
 
 
 --> methode show
@@ -20,7 +19,7 @@ ________________________________
 
 
 Demo by wsdlbrowser.com: 
-
+https://tinyurl.com/y8vnm636
 
 ________________________________
 
