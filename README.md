@@ -7,7 +7,6 @@ Param = 18-10-2017-J
                                                 
 ________________________________   
 
-
 --> methode show
 
 --> Parameter dateval = dd-mm-yyyy-t
@@ -17,11 +16,6 @@ t = M --> month-view /
 t = W --> weekday
 ________________________________
 
-
-Demo by wsdlbrowser.com: 
-https://tinyurl.com/y8vnm636
-
-________________________________
 
 See details of implementation (without webservice) here:
 
